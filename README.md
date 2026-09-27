@@ -19,7 +19,7 @@ GitHub: https://github.com/arvin-arora/Hostel-Attendance-app
 ### Project 2
 AI Portfolio Website — A personal portfolio website built with HTML and CSS, showcasing my work, skills, and contact information.
 
-Website: arvin-arora.github.io
+Website:[ arvin-arora.github.io]https://arvin-arora.github.io/)
 
 ## Author
 
