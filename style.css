@@ -127,8 +127,8 @@ body {
 
 /* ================= HERO CARD ================= */
 .hero-card {
-    width: 320px;
-    height: 320px;
+    width: 420px;
+    height: 520px;
     display: flex;
     justify-content: center;
     align-items: center;
