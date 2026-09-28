@@ -385,16 +385,7 @@ body {
     text-decoration: none;
 }
 
-.prophoto {
-    width: 320px;
-    height: 62vh;
-    display: flex;
-    justify-content: flex-end;
-    align-items: flex-end;
-    background-image: url(assets/prophoto.png.png);
-    background-size: cover;
-    position: relative;
-}
+
 
 /* ================= CONTACT ================= */
 .contact-container {
